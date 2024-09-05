@@ -10,7 +10,7 @@ int main(){
     float temperaturaC1 = temperaturaF - 32;
     float temperaturaC2 = temperaturaC1 * 5/9;
 
-    printf("A temperatura em  Centigrado eh:%.2f", temperaturaC2);
+    printf("A temperatura em Centigrado eh:%.2f", temperaturaC2);
 
     return 0;
 
